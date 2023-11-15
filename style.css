@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ff9999;
+}
+header {
+    background-color: #070707;
+    padding: 20px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+nav a {
+    text-decoration: none;
+    color: rgb(238, 228, 228);
+    padding: 5px 10px;
+}
+.hero {
+    background-image: url("najwa4.jpg");
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.n3 .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
